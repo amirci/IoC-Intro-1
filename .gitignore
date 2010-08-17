@@ -1,0 +1,6 @@
+*.suo
+*.user
+*.cache
+Reports
+TestResult.xml
+_ReSharper.*

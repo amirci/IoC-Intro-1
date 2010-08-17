@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MavenThought.MovieLibrary.MovieLibrary">
+    <Position X="4.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAABAAAAAAAEAAAAAEAAAAAAAABAAAA=</HashCode>
+      <FileName>MovieLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MavenThought.MovieLibrary.MovieCritic">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieCritic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MavenThought.MovieLibrary.TwitterNotifier">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>TwitterNotifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MavenThought.MovieLibrary.IMovie">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
